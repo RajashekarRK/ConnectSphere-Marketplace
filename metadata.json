@@ -1,0 +1,7 @@
+{
+  "name": "ConnectSphere - AI-Powered Global Marketplace",
+  "description": "A next-generation, AI-first global marketplace that leverages Gemini to create a hyper-personalized and intuitive experience for buyers and sellers worldwide. This app showcases the AI-assisted listing creation feature.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
